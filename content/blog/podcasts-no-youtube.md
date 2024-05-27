@@ -16,4 +16,5 @@ Você pode conferir todos os nossos episódios através da [aba de Podcasts](htt
 
 Também estamos experimentando produzir episódios com vídeo. 
 No nosso canal você encontrará tanto as opções de vídeo como apenas com o áudio.
+
 > O primeiro experimento nesta forma é o [episódio 80](https://osprogramadores.com/podcast/podcast-80/).
